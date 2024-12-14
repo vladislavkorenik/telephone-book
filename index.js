@@ -1,5 +1,5 @@
 // Телефонная книга
-var phoneBook = {};
+const phoneBook = {};
 
 /**
  * @param {String} command
